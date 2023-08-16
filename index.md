@@ -115,18 +115,8 @@ Por eso para evitar ese tipo de situaciones se recomienda cada cierto tiempo aud
 
 ---
 
-# Sobre el autor
+## Sobre el autor.
 
-![Autor.jpg](Autor.jpg)
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
-<img src="LinkedIn-icon.png" alt="LinkedIn-icon.png" width="25px"/>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>          
-
-
-### Fernando Sánchez Mejía
-
-### ITIL Fundamentals v4
-
-### Consultor de TI - Risk Advisory - Deloitte
-
----
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="fernando-sanchez-mejia" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://mx.linkedin.com/in/fernando-sanchez-mejia?trk=profile-badge">Fernando Sanchez Mejia</a></div>
